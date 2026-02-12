@@ -34,7 +34,7 @@ O projeto foi construído utilizando as melhores práticas de Excel para BI:
 ---
 
 ## 📂 Como Utilizar
-1.  **Download:** Baixe o arquivo [`Dashbord de Vendas.xlsx`](https://github.com/marcosrmaciel42-png/Dashboard-de-Vendas/blob/c72e0cdefaf02d832a873d7731d4c6b1a64a1daa/Dashbord%20de%20Vendas.xlsx) deste repositório.
+1.  **Download:** Baixe o arquivo [`Dashbord de Vendas.xlsx`](https://github.com/marcosrmaciel42-png/Dashboard-de-Vendas/raw/c72e0cdefaf02d832a873d7731d4c6b1a64a1daa/Dashbord%20de%20Vendas.xlsx) deste repositório.
 2.  **Habilitação:** Ao abrir, clique em "Habilitar Edição" e "Habilitar Conteúdo" para que as fórmulas e conexões funcionem.
 3.  **Filtros:** Utilize os botões de segmentação (Slicers) para navegar entre períodos e categorias.
 
