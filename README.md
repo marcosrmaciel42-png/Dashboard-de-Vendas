@@ -28,9 +28,8 @@ O projeto foi construído utilizando as melhores práticas de Excel para BI:
 
 ## 📸 Visualização do Dashboard
 
-> [!TIP]
-> **Substitua o caminho abaixo pelo print do seu dashboard** após subir a imagem para o seu repositório.
-![Preview do Dashboard](img/dashboard_preview.png)
+
+![Preview do Dashboard](dashboard.jpeg)
 
 ---
 
